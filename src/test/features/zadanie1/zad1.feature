@@ -1,6 +1,6 @@
 Feature: Registration on Coders Guru website and Creating new profile
 
-  Scenario: Users can register on Coders Guru website like private user (without text message confirmation)
+  Scenario: Users can register on Coders Guru website like private user without text message confirmation
 
     Given an open browser with https://men-men-s-01.codersguru.pl/
     When user clicks "Załóż konto"
